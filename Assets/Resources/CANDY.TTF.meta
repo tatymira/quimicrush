@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c7b4f9c7ae47516438ff07147cd22e07
+timeCreated: 1510799012
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Candice
+  fontNames:
+  - Candice
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
